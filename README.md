@@ -9,5 +9,7 @@
 
 
 ## 언어 및 환경
--언어: C
--환경: VISUAL STUDIO 2022
+   -언어: C
+   -환경: VISUAL STUDIO 2022
+
+
